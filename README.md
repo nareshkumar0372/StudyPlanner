@@ -26,6 +26,23 @@ An Android Study Planner application built using Java and Firebase.
 - Add Subject
 - Task Management
 
+## 📸 Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### OTP Verification
+![OTP Screen](screenshots/otp.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Subject
+![Add Subject](screenshots/add_subject.png)
+
+### Task Screen
+![Task Screen](screenshots/tasks.png)
+
 ## 🔥 Firebase Setup
 1. Create Firebase Project
 2. Enable Phone Authentication
